@@ -1,2 +1,2 @@
-# youtube
-Xwindow application using Youtube api
+# MineSweeper
+use 'make' command to compile inside src directory and use 'java Minesweeper'
